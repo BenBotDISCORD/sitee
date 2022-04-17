@@ -1,0 +1,3 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file django/bin/python","time":"2022-04-17T15:49:11Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file django/bin/python3","time":"2022-04-17T15:49:11Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file django/lib64","time":"2022-04-17T15:49:11Z"}
